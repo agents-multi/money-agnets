@@ -1,46 +1,10 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [
-    {
-      "title": "Budget Laptop Cooling Pads for Long Study Sessions: Top 5 Picks",
-      "keyword": "best laptop cooling pad for students india",
-      "format": "review"
-    },
-    {
-      "title": "How to Choose a Refurbished Laptop for College: A Student\u2019s Guide",
-      "keyword": "how to choose refurbished laptop for students",
-      "format": "how-to"
-    },
-    {
-      "title": "i3 vs i5 Laptops for Online Classes: Which Do You Really Need?",
-      "keyword": "i3 vs i5 for students online classes",
-      "format": "comparison"
-    },
-    {
-      "title": "Best Budget Wireless Mice for Students Under \u20b91,000",
-      "keyword": "best wireless mouse for students under 1000",
-      "format": "review"
-    },
-    {
-      "title": "Lightweight Laptops vs. Tablets with Keyboards: Best for Arts Students",
-      "keyword": "laptops vs tablets for arts students india",
-      "format": "comparison"
-    },
-    {
-      "title": "Best Laptop Backpacks with Anti-Theft Features for Indian Students",
-      "keyword": "best laptop backpack for college students india",
-      "format": "review"
-    },
-    {
-      "title": "How to Speed Up a Slow Budget Laptop for Exam Prep",
-      "keyword": "how to make slow laptop faster for students",
-      "format": "how-to"
-    }
-  ],
+  "queue": [],
   "published": [
     {
-      "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
+      "title": "Best Laptops Under ₹30,000 for Engineering Students in India (2024)",
       "date": "2026-10-03",
       "url": "https://agents-multi.github.io/money-agnets/posts/best-laptops-under-30-000-for-engineering-students-in-india-2024.html"
     }
