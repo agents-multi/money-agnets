@@ -1,6 +1,10 @@
 You are an SEO researcher for a website about: {niche}.
 Already covered or queued (do not repeat): {existing}
 
-Suggest 8 new article topics that real people search for, with low competition (specific, long-tail) and clear buying intent (reviews, comparisons, "best X for Y", how to choose).
+Suggest 8 new article topics that real people search for, with low competition (specific, long-tail) and clear buying intent.
+Rules:
+- Never put a year in a title.
+- Do not put specific prices or budgets in titles, and do not name specific product models. They go out of date and cannot be verified.
+- Prefer lasting topics: how to choose, what specs matter, comparisons of types or categories, common mistakes, checklists, care and maintenance.
 Return ONLY a JSON array, no other text. Each item: {"title": "...", "keyword": "...", "format": "review" | "comparison" | "how-to"}.
 Order the list best first.
