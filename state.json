@@ -1,12 +1,53 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [],
+  "queue": [
+    {
+      "title": "How to Choose the Right Laptop Display Panel for Long Study Sessions",
+      "keyword": "how to choose laptop screen for students",
+      "format": "how-to"
+    },
+    {
+      "title": "Integrated Graphics vs Dedicated Graphics: What Students Really Need",
+      "keyword": "integrated vs dedicated graphics for students",
+      "format": "comparison"
+    },
+    {
+      "title": "Common Mistakes to Avoid When Buying a Laptop for Online Classes",
+      "keyword": "mistakes to avoid when buying a student laptop",
+      "format": "how-to"
+    },
+    {
+      "title": "SSD vs HDD for Student Laptops: Why Storage Speed Matters",
+      "keyword": "ssd vs hdd for laptops",
+      "format": "comparison"
+    },
+    {
+      "title": "Best Practices for Maintaining Laptop Battery Health During Semester Breaks",
+      "keyword": "how to maintain laptop battery health",
+      "format": "how-to"
+    },
+    {
+      "title": "Chromebooks vs Windows Laptops: Which is Better for Academic Work",
+      "keyword": "chromebook vs windows for students",
+      "format": "comparison"
+    },
+    {
+      "title": "Checklist for Setting Up a New Laptop for University Assignments",
+      "keyword": "laptop setup checklist for students",
+      "format": "how-to"
+    }
+  ],
   "published": [
     {
-      "title": "Best Laptops Under ₹30,000 for Engineering Students in India (2024)",
+      "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
       "date": "2026-10-03",
       "url": "https://agents-multi.github.io/money-agnets/posts/best-laptops-under-30-000-for-engineering-students-in-india-2024.html"
+    },
+    {
+      "title": "Essential Laptop Accessories Every College Student Needs for Productivity",
+      "date": "2026-10-03",
+      "url": "https://agents-multi.github.io/money-agnets/posts/essential-laptop-accessories-every-college-student-needs-for-productivity.html"
     }
   ]
 }
