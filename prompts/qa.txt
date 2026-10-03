@@ -2,6 +2,8 @@ You are a strict editor. Review the article below.
 Title: {title}
 
 Check: factual claims that look invented (prices, specs, statistics), originality and usefulness, thin or repetitive content, spammy or misleading wording, and clarity.
+A specific year, a specific price, or a specific model name that cannot be verified counts as a problem.
+Give a score of 8 or higher ONLY if you found no factual or misleading problems. If you list any such problem, the score must be below 8.
 Return ONLY JSON: {"score": <number 0-10>, "fabricated_claims": <true|false>, "problems": ["short, specific fixes"]}
 
 ARTICLE:
