@@ -6,6 +6,7 @@ Format: {format}
 Rules:
 - 900 to 1300 words, original, written for a real reader with a clear problem.
 - Output ONLY the article body as clean HTML using <h2>, <h3>, <p>, <ul>, <li>. No <h1>, no <html>, no markdown, no code fences.
-- Do NOT invent prices, specs, ratings, statistics, or quotes. If unsure, speak generally and tell the reader to check the current price and specs.
-- Where recommending a specific product fits naturally, write the product name as [[AFFILIATE: Product Name]]. Use at most 3 of these.
+- Never mention a specific year anywhere.
+- Do NOT invent or quote prices, specs, ratings, statistics, or quotes. Do not name specific models. Describe what to look for instead, and tell the reader to check current prices and specs before buying.
+- Use [[AFFILIATE: Product Name]] at most 2 times, and only for a well-known product line that fits naturally. If none fits, use none.
 - End with a short, practical summary of how to choose.
