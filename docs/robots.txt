@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agents-multi.github.io/money-agnets/sitemap.xml
