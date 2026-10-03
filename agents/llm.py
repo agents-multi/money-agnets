@@ -28,7 +28,7 @@ def _post(url, headers, payload, timeout=120):
 
 
 def _gemini(prompt):
-    model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+    model = os.environ.get("GEMINI_MODEL", "gemini-3.1-flash-lite")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     d = _post(url, {"x-goog-api-key": os.environ["GEMINI_API_KEY"]},
               {"contents": [{"parts": [{"text": prompt}]}]})
