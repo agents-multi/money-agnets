@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "How to Choose the Right Laptop Display Panel for Long Study Sessions",
-      "keyword": "how to choose laptop screen for students",
-      "format": "how-to"
-    },
-    {
       "title": "Integrated Graphics vs Dedicated Graphics: What Students Really Need",
       "keyword": "integrated vs dedicated graphics for students",
       "format": "comparison"
@@ -48,6 +43,11 @@
       "title": "Essential Laptop Accessories Every College Student Needs for Productivity",
       "date": "2026-10-03",
       "url": "https://agents-multi.github.io/money-agnets/posts/essential-laptop-accessories-every-college-student-needs-for-productivity.html"
+    },
+    {
+      "title": "How to Choose the Right Laptop Display Panel for Long Study Sessions",
+      "date": "2026-10-04",
+      "url": "https://agents-multi.github.io/money-agnets/posts/how-to-choose-the-right-laptop-display-panel-for-long-study-sessions.html"
     }
   ]
 }
