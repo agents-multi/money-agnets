@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Integrated Graphics vs Dedicated Graphics: What Students Really Need",
-      "keyword": "integrated vs dedicated graphics for students",
-      "format": "comparison"
-    },
-    {
       "title": "Common Mistakes to Avoid When Buying a Laptop for Online Classes",
       "keyword": "mistakes to avoid when buying a student laptop",
       "format": "how-to"
@@ -48,6 +43,11 @@
       "title": "How to Choose the Right Laptop Display Panel for Long Study Sessions",
       "date": "2026-10-04",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-choose-the-right-laptop-display-panel-for-long-study-sessions.html"
+    },
+    {
+      "title": "Integrated Graphics vs Dedicated Graphics: What Students Really Need",
+      "date": "2026-10-05",
+      "url": "https://agents-multi.github.io/money-agnets/posts/integrated-graphics-vs-dedicated-graphics-what-students-really-need.html"
     }
   ]
 }
