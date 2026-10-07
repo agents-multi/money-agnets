@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "SSD vs HDD for Student Laptops: Why Storage Speed Matters",
-      "keyword": "ssd vs hdd for laptops",
-      "format": "comparison"
-    },
-    {
       "title": "Best Practices for Maintaining Laptop Battery Health During Semester Breaks",
       "keyword": "how to maintain laptop battery health",
       "format": "how-to"
@@ -48,6 +43,11 @@
       "title": "Common Mistakes to Avoid When Buying a Laptop for Online Classes",
       "date": "2026-10-06",
       "url": "https://agents-multi.github.io/money-agnets/posts/common-mistakes-to-avoid-when-buying-a-laptop-for-online-classes.html"
+    },
+    {
+      "title": "SSD vs HDD for Student Laptops: Why Storage Speed Matters",
+      "date": "2026-10-07",
+      "url": "https://agents-multi.github.io/money-agnets/posts/ssd-vs-hdd-for-student-laptops-why-storage-speed-matters.html"
     }
   ]
 }
