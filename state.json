@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Best Practices for Maintaining Laptop Battery Health During Semester Breaks",
-      "keyword": "how to maintain laptop battery health",
-      "format": "how-to"
-    },
-    {
       "title": "Chromebooks vs Windows Laptops: Which is Better for Academic Work",
       "keyword": "chromebook vs windows for students",
       "format": "comparison"
@@ -48,6 +43,11 @@
       "title": "SSD vs HDD for Student Laptops: Why Storage Speed Matters",
       "date": "2026-10-07",
       "url": "https://agents-multi.github.io/money-agnets/posts/ssd-vs-hdd-for-student-laptops-why-storage-speed-matters.html"
+    },
+    {
+      "title": "Best Practices for Maintaining Laptop Battery Health During Semester Breaks",
+      "date": "2026-10-08",
+      "url": "https://agents-multi.github.io/money-agnets/posts/best-practices-for-maintaining-laptop-battery-health-during-semester-breaks.html"
     }
   ]
 }
