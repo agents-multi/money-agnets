@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Chromebooks vs Windows Laptops: Which is Better for Academic Work",
-      "keyword": "chromebook vs windows for students",
-      "format": "comparison"
-    },
-    {
       "title": "Checklist for Setting Up a New Laptop for University Assignments",
       "keyword": "laptop setup checklist for students",
       "format": "how-to"
@@ -48,6 +43,11 @@
       "title": "Best Practices for Maintaining Laptop Battery Health During Semester Breaks",
       "date": "2026-10-08",
       "url": "https://agents-multi.github.io/money-agnets/posts/best-practices-for-maintaining-laptop-battery-health-during-semester-breaks.html"
+    },
+    {
+      "title": "Chromebooks vs Windows Laptops: Which is Better for Academic Work",
+      "date": "2026-10-09",
+      "url": "https://agents-multi.github.io/money-agnets/posts/chromebooks-vs-windows-laptops-which-is-better-for-academic-work.html"
     }
   ]
 }
