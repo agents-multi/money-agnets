@@ -1,13 +1,7 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [
-    {
-      "title": "Checklist for Setting Up a New Laptop for University Assignments",
-      "keyword": "laptop setup checklist for students",
-      "format": "how-to"
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -48,6 +42,11 @@
       "title": "Chromebooks vs Windows Laptops: Which is Better for Academic Work",
       "date": "2026-10-09",
       "url": "https://agents-multi.github.io/money-agnets/posts/chromebooks-vs-windows-laptops-which-is-better-for-academic-work.html"
+    },
+    {
+      "title": "Checklist for Setting Up a New Laptop for University Assignments",
+      "date": "2026-10-10",
+      "url": "https://agents-multi.github.io/money-agnets/posts/checklist-for-setting-up-a-new-laptop-for-university-assignments.html"
     }
   ]
 }
