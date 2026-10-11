@@ -1,7 +1,43 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [],
+  "queue": [
+    {
+      "title": "How to Optimize Laptop Performance for Resource-Heavy Student Software",
+      "keyword": "optimize laptop for student software",
+      "format": "how-to"
+    },
+    {
+      "title": "Ergonomic Accessories to Prevent Strain During Long Study Hours",
+      "keyword": "laptop ergonomic accessories for students",
+      "format": "review"
+    },
+    {
+      "title": "Understanding RAM Requirements for Multitasking Academic Applications",
+      "keyword": "how much ram do students need for laptop",
+      "format": "how-to"
+    },
+    {
+      "title": "Protective Gear vs Lightweight Portability: How to Transport Your Laptop Safely",
+      "keyword": "best ways to carry laptop to college",
+      "format": "comparison"
+    },
+    {
+      "title": "Essential Keyboard and Mouse Features for Typing Extensive Research Papers",
+      "keyword": "best keyboard and mouse for students",
+      "format": "review"
+    },
+    {
+      "title": "How to Manage Laptop Thermals When Working in Non-Air Conditioned Environments",
+      "keyword": "how to keep student laptop cool",
+      "format": "how-to"
+    },
+    {
+      "title": "Wired vs Wireless Peripherals: Determining the Best Setup for Dormitory Desks",
+      "keyword": "wired vs wireless laptop accessories for students",
+      "format": "comparison"
+    }
+  ],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -47,6 +83,11 @@
       "title": "Checklist for Setting Up a New Laptop for University Assignments",
       "date": "2026-10-10",
       "url": "https://agents-multi.github.io/money-agnets/posts/checklist-for-setting-up-a-new-laptop-for-university-assignments.html"
+    },
+    {
+      "title": "Choosing Between Lightweight Ultrabooks and Performance Laptops for College",
+      "date": "2026-10-11",
+      "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-lightweight-ultrabooks-and-performance-laptops-for-college.html"
     }
   ]
 }
