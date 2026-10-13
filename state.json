@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Ergonomic Accessories to Prevent Strain During Long Study Hours",
-      "keyword": "laptop ergonomic accessories for students",
-      "format": "review"
-    },
-    {
       "title": "Understanding RAM Requirements for Multitasking Academic Applications",
       "keyword": "how much ram do students need for laptop",
       "format": "how-to"
@@ -88,6 +83,11 @@
       "title": "How to Optimize Laptop Performance for Resource-Heavy Student Software",
       "date": "2026-10-12",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-optimize-laptop-performance-for-resource-heavy-student-software.html"
+    },
+    {
+      "title": "Ergonomic Accessories to Prevent Strain During Long Study Hours",
+      "date": "2026-10-13",
+      "url": "https://agents-multi.github.io/money-agnets/posts/ergonomic-accessories-to-prevent-strain-during-long-study-hours.html"
     }
   ]
 }
