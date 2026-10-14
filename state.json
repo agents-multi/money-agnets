@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Understanding RAM Requirements for Multitasking Academic Applications",
-      "keyword": "how much ram do students need for laptop",
-      "format": "how-to"
-    },
-    {
       "title": "Protective Gear vs Lightweight Portability: How to Transport Your Laptop Safely",
       "keyword": "best ways to carry laptop to college",
       "format": "comparison"
@@ -88,6 +83,11 @@
       "title": "Ergonomic Accessories to Prevent Strain During Long Study Hours",
       "date": "2026-10-13",
       "url": "https://agents-multi.github.io/money-agnets/posts/ergonomic-accessories-to-prevent-strain-during-long-study-hours.html"
+    },
+    {
+      "title": "Understanding RAM Requirements for Multitasking Academic Applications",
+      "date": "2026-10-14",
+      "url": "https://agents-multi.github.io/money-agnets/posts/understanding-ram-requirements-for-multitasking-academic-applications.html"
     }
   ]
 }
