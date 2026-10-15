@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Protective Gear vs Lightweight Portability: How to Transport Your Laptop Safely",
-      "keyword": "best ways to carry laptop to college",
-      "format": "comparison"
-    },
-    {
       "title": "Essential Keyboard and Mouse Features for Typing Extensive Research Papers",
       "keyword": "best keyboard and mouse for students",
       "format": "review"
@@ -88,6 +83,11 @@
       "title": "Understanding RAM Requirements for Multitasking Academic Applications",
       "date": "2026-10-14",
       "url": "https://agents-multi.github.io/money-agnets/posts/understanding-ram-requirements-for-multitasking-academic-applications.html"
+    },
+    {
+      "title": "Protective Gear vs Lightweight Portability: How to Transport Your Laptop Safely",
+      "date": "2026-10-15",
+      "url": "https://agents-multi.github.io/money-agnets/posts/protective-gear-vs-lightweight-portability-how-to-transport-your-laptop-safely.html"
     }
   ]
 }
