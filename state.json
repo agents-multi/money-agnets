@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Essential Keyboard and Mouse Features for Typing Extensive Research Papers",
-      "keyword": "best keyboard and mouse for students",
-      "format": "review"
-    },
-    {
       "title": "How to Manage Laptop Thermals When Working in Non-Air Conditioned Environments",
       "keyword": "how to keep student laptop cool",
       "format": "how-to"
@@ -88,6 +83,11 @@
       "title": "Protective Gear vs Lightweight Portability: How to Transport Your Laptop Safely",
       "date": "2026-10-15",
       "url": "https://agents-multi.github.io/money-agnets/posts/protective-gear-vs-lightweight-portability-how-to-transport-your-laptop-safely.html"
+    },
+    {
+      "title": "Essential Keyboard and Mouse Features for Typing Extensive Research Papers",
+      "date": "2026-10-16",
+      "url": "https://agents-multi.github.io/money-agnets/posts/essential-keyboard-and-mouse-features-for-typing-extensive-research-papers.html"
     }
   ]
 }
