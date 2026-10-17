@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "How to Manage Laptop Thermals When Working in Non-Air Conditioned Environments",
-      "keyword": "how to keep student laptop cool",
-      "format": "how-to"
-    },
-    {
       "title": "Wired vs Wireless Peripherals: Determining the Best Setup for Dormitory Desks",
       "keyword": "wired vs wireless laptop accessories for students",
       "format": "comparison"
@@ -88,6 +83,11 @@
       "title": "Essential Keyboard and Mouse Features for Typing Extensive Research Papers",
       "date": "2026-10-16",
       "url": "https://agents-multi.github.io/money-agnets/posts/essential-keyboard-and-mouse-features-for-typing-extensive-research-papers.html"
+    },
+    {
+      "title": "How to Manage Laptop Thermals When Working in Non-Air Conditioned Environments",
+      "date": "2026-10-17",
+      "url": "https://agents-multi.github.io/money-agnets/posts/how-to-manage-laptop-thermals-when-working-in-non-air-conditioned-environments.html"
     }
   ]
 }
