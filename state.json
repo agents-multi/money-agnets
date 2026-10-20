@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Choosing Between External Hard Drives and Cloud Storage for Academic Backups",
-      "keyword": "external hard drive vs cloud storage for students",
-      "format": "comparison"
-    },
-    {
       "title": "Why Your Laptop Overheats While Charging and How to Fix It",
       "keyword": "laptop overheating while charging fix",
       "format": "how-to"
@@ -128,6 +123,11 @@
       "title": "How to Clean Your Laptop Screen and Keyboard Without Damaging Components",
       "date": "2026-10-19",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-clean-your-laptop-screen-and-keyboard-without-damaging-components.html"
+    },
+    {
+      "title": "Choosing Between External Hard Drives and Cloud Storage for Academic Backups",
+      "date": "2026-10-20",
+      "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-external-hard-drives-and-cloud-storage-for-academic-backups.html"
     }
   ]
 }
