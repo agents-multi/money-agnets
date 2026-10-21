@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Why Your Laptop Overheats While Charging and How to Fix It",
-      "keyword": "laptop overheating while charging fix",
-      "format": "how-to"
-    },
-    {
       "title": "Mechanical vs Membrane Keyboards for Long Research Writing Sessions",
       "keyword": "mechanical vs membrane keyboard for typing",
       "format": "comparison"
@@ -128,6 +123,11 @@
       "title": "Choosing Between External Hard Drives and Cloud Storage for Academic Backups",
       "date": "2026-10-20",
       "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-external-hard-drives-and-cloud-storage-for-academic-backups.html"
+    },
+    {
+      "title": "Why Your Laptop Overheats While Charging and How to Fix It",
+      "date": "2026-10-21",
+      "url": "https://agents-multi.github.io/money-agnets/posts/why-your-laptop-overheats-while-charging-and-how-to-fix-it.html"
     }
   ]
 }
