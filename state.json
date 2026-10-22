@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Mechanical vs Membrane Keyboards for Long Research Writing Sessions",
-      "keyword": "mechanical vs membrane keyboard for typing",
-      "format": "comparison"
-    },
-    {
       "title": "Factors to Consider When Buying a Laptop Backpack for Campus Safety",
       "keyword": "how to choose a laptop backpack for college",
       "format": "how-to"
@@ -128,6 +123,11 @@
       "title": "Why Your Laptop Overheats While Charging and How to Fix It",
       "date": "2026-10-21",
       "url": "https://agents-multi.github.io/money-agnets/posts/why-your-laptop-overheats-while-charging-and-how-to-fix-it.html"
+    },
+    {
+      "title": "Mechanical vs Membrane Keyboards for Long Research Writing Sessions",
+      "date": "2026-10-22",
+      "url": "https://agents-multi.github.io/money-agnets/posts/mechanical-vs-membrane-keyboards-for-long-research-writing-sessions.html"
     }
   ]
 }
