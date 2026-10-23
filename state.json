@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Factors to Consider When Buying a Laptop Backpack for Campus Safety",
-      "keyword": "how to choose a laptop backpack for college",
-      "format": "how-to"
-    },
-    {
       "title": "USB-C Hubs vs Docking Stations for Expanding Laptop Connectivity",
       "keyword": "usb-c hub vs docking station for students",
       "format": "comparison"
@@ -128,6 +123,11 @@
       "title": "Mechanical vs Membrane Keyboards for Long Research Writing Sessions",
       "date": "2026-10-22",
       "url": "https://agents-multi.github.io/money-agnets/posts/mechanical-vs-membrane-keyboards-for-long-research-writing-sessions.html"
+    },
+    {
+      "title": "Factors to Consider When Buying a Laptop Backpack for Campus Safety",
+      "date": "2026-10-23",
+      "url": "https://agents-multi.github.io/money-agnets/posts/factors-to-consider-when-buying-a-laptop-backpack-for-campus-safety.html"
     }
   ]
 }
