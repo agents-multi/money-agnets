@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "USB-C Hubs vs Docking Stations for Expanding Laptop Connectivity",
-      "keyword": "usb-c hub vs docking station for students",
-      "format": "comparison"
-    },
-    {
       "title": "Essential Software and Settings for Students Using Budget Laptops",
       "keyword": "optimize budget laptop for university work",
       "format": "how-to"
@@ -128,6 +123,11 @@
       "title": "Factors to Consider When Buying a Laptop Backpack for Campus Safety",
       "date": "2026-10-23",
       "url": "https://agents-multi.github.io/money-agnets/posts/factors-to-consider-when-buying-a-laptop-backpack-for-campus-safety.html"
+    },
+    {
+      "title": "USB-C Hubs vs Docking Stations for Expanding Laptop Connectivity",
+      "date": "2026-10-24",
+      "url": "https://agents-multi.github.io/money-agnets/posts/usb-c-hubs-vs-docking-stations-for-expanding-laptop-connectivity.html"
     }
   ]
 }
