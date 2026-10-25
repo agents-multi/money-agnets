@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Essential Software and Settings for Students Using Budget Laptops",
-      "keyword": "optimize budget laptop for university work",
-      "format": "how-to"
-    },
-    {
       "title": "Choosing Between Anti-Glare and Glossy Screens for Library and Outdoor Study",
       "keyword": "anti-glare vs glossy laptop screen for students",
       "format": "comparison"
@@ -128,6 +123,11 @@
       "title": "USB-C Hubs vs Docking Stations for Expanding Laptop Connectivity",
       "date": "2026-10-24",
       "url": "https://agents-multi.github.io/money-agnets/posts/usb-c-hubs-vs-docking-stations-for-expanding-laptop-connectivity.html"
+    },
+    {
+      "title": "Essential Software and Settings for Students Using Budget Laptops",
+      "date": "2026-10-25",
+      "url": "https://agents-multi.github.io/money-agnets/posts/essential-software-and-settings-for-students-using-budget-laptops.html"
     }
   ]
 }
