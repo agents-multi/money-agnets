@@ -1,13 +1,7 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [
-    {
-      "title": "Choosing Between Anti-Glare and Glossy Screens for Library and Outdoor Study",
-      "keyword": "anti-glare vs glossy laptop screen for students",
-      "format": "comparison"
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -128,6 +122,11 @@
       "title": "Essential Software and Settings for Students Using Budget Laptops",
       "date": "2026-10-25",
       "url": "https://agents-multi.github.io/money-agnets/posts/essential-software-and-settings-for-students-using-budget-laptops.html"
+    },
+    {
+      "title": "Choosing Between Anti-Glare and Glossy Screens for Library and Outdoor Study",
+      "date": "2026-10-26",
+      "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-anti-glare-and-glossy-screens-for-library-and-outdoor-study.html"
     }
   ]
 }
