@@ -1,7 +1,43 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [],
+  "queue": [
+    {
+      "title": "Choosing the Right Laptop Screen Protector for Eye Comfort",
+      "keyword": "best screen protector for student laptop eye strain",
+      "format": "how-to"
+    },
+    {
+      "title": "Backlit vs Non-Backlit Keyboards for Late Night Studying",
+      "keyword": "importance of backlit keyboard for students",
+      "format": "comparison"
+    },
+    {
+      "title": "How to Select a Reliable Laptop Sleeve for Commuting Students",
+      "keyword": "features to look for in laptop sleeve for college",
+      "format": "how-to"
+    },
+    {
+      "title": "Bluetooth vs USB Receiver Mice for Cluttered Dorm Desks",
+      "keyword": "bluetooth vs wireless mouse for students",
+      "format": "comparison"
+    },
+    {
+      "title": "Protecting Laptop Ports from Dust and Debris in Hostel Environments",
+      "keyword": "how to keep laptop ports clean in hostel",
+      "format": "how-to"
+    },
+    {
+      "title": "Webcam Covers and Privacy Screens: Essential Security Add-ons",
+      "keyword": "is a webcam cover necessary for students",
+      "format": "review"
+    },
+    {
+      "title": "Vertical vs Standard Laptop Stands for Desk Posture",
+      "keyword": "benefits of laptop stand for students",
+      "format": "comparison"
+    }
+  ],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -127,6 +163,11 @@
       "title": "Choosing Between Anti-Glare and Glossy Screens for Library and Outdoor Study",
       "date": "2026-10-26",
       "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-anti-glare-and-glossy-screens-for-library-and-outdoor-study.html"
+    },
+    {
+      "title": "External Cooling Pads for Laptops: Are They Necessary for Student Desktops",
+      "date": "2026-10-27",
+      "url": "https://agents-multi.github.io/money-agnets/posts/external-cooling-pads-for-laptops-are-they-necessary-for-student-desktops.html"
     }
   ]
 }
