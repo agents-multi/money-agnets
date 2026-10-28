@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Choosing the Right Laptop Screen Protector for Eye Comfort",
-      "keyword": "best screen protector for student laptop eye strain",
-      "format": "how-to"
-    },
-    {
       "title": "Backlit vs Non-Backlit Keyboards for Late Night Studying",
       "keyword": "importance of backlit keyboard for students",
       "format": "comparison"
@@ -168,6 +163,11 @@
       "title": "External Cooling Pads for Laptops: Are They Necessary for Student Desktops",
       "date": "2026-10-27",
       "url": "https://agents-multi.github.io/money-agnets/posts/external-cooling-pads-for-laptops-are-they-necessary-for-student-desktops.html"
+    },
+    {
+      "title": "Choosing the Right Laptop Screen Protector for Eye Comfort",
+      "date": "2026-10-28",
+      "url": "https://agents-multi.github.io/money-agnets/posts/choosing-the-right-laptop-screen-protector-for-eye-comfort.html"
     }
   ]
 }
