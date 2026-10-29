@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Backlit vs Non-Backlit Keyboards for Late Night Studying",
-      "keyword": "importance of backlit keyboard for students",
-      "format": "comparison"
-    },
-    {
       "title": "How to Select a Reliable Laptop Sleeve for Commuting Students",
       "keyword": "features to look for in laptop sleeve for college",
       "format": "how-to"
@@ -168,6 +163,11 @@
       "title": "Choosing the Right Laptop Screen Protector for Eye Comfort",
       "date": "2026-10-28",
       "url": "https://agents-multi.github.io/money-agnets/posts/choosing-the-right-laptop-screen-protector-for-eye-comfort.html"
+    },
+    {
+      "title": "Backlit vs Non-Backlit Keyboards for Late Night Studying",
+      "date": "2026-10-29",
+      "url": "https://agents-multi.github.io/money-agnets/posts/backlit-vs-non-backlit-keyboards-for-late-night-studying.html"
     }
   ]
 }
