@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "How to Select a Reliable Laptop Sleeve for Commuting Students",
-      "keyword": "features to look for in laptop sleeve for college",
-      "format": "how-to"
-    },
-    {
       "title": "Bluetooth vs USB Receiver Mice for Cluttered Dorm Desks",
       "keyword": "bluetooth vs wireless mouse for students",
       "format": "comparison"
@@ -168,6 +163,11 @@
       "title": "Backlit vs Non-Backlit Keyboards for Late Night Studying",
       "date": "2026-10-29",
       "url": "https://agents-multi.github.io/money-agnets/posts/backlit-vs-non-backlit-keyboards-for-late-night-studying.html"
+    },
+    {
+      "title": "How to Select a Reliable Laptop Sleeve for Commuting Students",
+      "date": "2026-10-30",
+      "url": "https://agents-multi.github.io/money-agnets/posts/how-to-select-a-reliable-laptop-sleeve-for-commuting-students.html"
     }
   ]
 }
