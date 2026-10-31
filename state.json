@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Bluetooth vs USB Receiver Mice for Cluttered Dorm Desks",
-      "keyword": "bluetooth vs wireless mouse for students",
-      "format": "comparison"
-    },
-    {
       "title": "Protecting Laptop Ports from Dust and Debris in Hostel Environments",
       "keyword": "how to keep laptop ports clean in hostel",
       "format": "how-to"
@@ -168,6 +163,11 @@
       "title": "How to Select a Reliable Laptop Sleeve for Commuting Students",
       "date": "2026-10-30",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-select-a-reliable-laptop-sleeve-for-commuting-students.html"
+    },
+    {
+      "title": "Bluetooth vs USB Receiver Mice for Cluttered Dorm Desks",
+      "date": "2026-10-31",
+      "url": "https://agents-multi.github.io/money-agnets/posts/bluetooth-vs-usb-receiver-mice-for-cluttered-dorm-desks.html"
     }
   ]
 }
