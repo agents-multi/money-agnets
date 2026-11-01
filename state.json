@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Protecting Laptop Ports from Dust and Debris in Hostel Environments",
-      "keyword": "how to keep laptop ports clean in hostel",
-      "format": "how-to"
-    },
-    {
       "title": "Webcam Covers and Privacy Screens: Essential Security Add-ons",
       "keyword": "is a webcam cover necessary for students",
       "format": "review"
@@ -168,6 +163,11 @@
       "title": "Bluetooth vs USB Receiver Mice for Cluttered Dorm Desks",
       "date": "2026-10-31",
       "url": "https://agents-multi.github.io/money-agnets/posts/bluetooth-vs-usb-receiver-mice-for-cluttered-dorm-desks.html"
+    },
+    {
+      "title": "Protecting Laptop Ports from Dust and Debris in Hostel Environments",
+      "date": "2026-11-01",
+      "url": "https://agents-multi.github.io/money-agnets/posts/protecting-laptop-ports-from-dust-and-debris-in-hostel-environments.html"
     }
   ]
 }
