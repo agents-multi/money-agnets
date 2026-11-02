@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Webcam Covers and Privacy Screens: Essential Security Add-ons",
-      "keyword": "is a webcam cover necessary for students",
-      "format": "review"
-    },
-    {
       "title": "Vertical vs Standard Laptop Stands for Desk Posture",
       "keyword": "benefits of laptop stand for students",
       "format": "comparison"
@@ -168,6 +163,11 @@
       "title": "Protecting Laptop Ports from Dust and Debris in Hostel Environments",
       "date": "2026-11-01",
       "url": "https://agents-multi.github.io/money-agnets/posts/protecting-laptop-ports-from-dust-and-debris-in-hostel-environments.html"
+    },
+    {
+      "title": "Webcam Covers and Privacy Screens: Essential Security Add-ons",
+      "date": "2026-11-02",
+      "url": "https://agents-multi.github.io/money-agnets/posts/webcam-covers-and-privacy-screens-essential-security-add-ons.html"
     }
   ]
 }
