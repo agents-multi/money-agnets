@@ -1,13 +1,7 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [
-    {
-      "title": "Vertical vs Standard Laptop Stands for Desk Posture",
-      "keyword": "benefits of laptop stand for students",
-      "format": "comparison"
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -168,6 +162,11 @@
       "title": "Webcam Covers and Privacy Screens: Essential Security Add-ons",
       "date": "2026-11-02",
       "url": "https://agents-multi.github.io/money-agnets/posts/webcam-covers-and-privacy-screens-essential-security-add-ons.html"
+    },
+    {
+      "title": "Vertical vs Standard Laptop Stands for Desk Posture",
+      "date": "2026-11-03",
+      "url": "https://agents-multi.github.io/money-agnets/posts/vertical-vs-standard-laptop-stands-for-desk-posture.html"
     }
   ]
 }
