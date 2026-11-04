@@ -1,6 +1,6 @@
 {
   "paused": false,
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "queue": [],
   "published": [
     {
