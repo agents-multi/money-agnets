@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "How to Extend Laptop Battery Life During Long College Lectures",
-      "keyword": "increase laptop battery life for students",
-      "format": "how-to"
-    },
-    {
       "title": "External Monitors for Students: Is a Second Screen Worth the Investment",
       "keyword": "benefits of external monitor for college students",
       "format": "review"
@@ -208,6 +203,11 @@
       "title": "Choosing Between Refurbished and New Laptops for College Studies",
       "date": "2026-11-05",
       "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-refurbished-and-new-laptops-for-college-studies.html"
+    },
+    {
+      "title": "How to Extend Laptop Battery Life During Long College Lectures",
+      "date": "2026-11-06",
+      "url": "https://agents-multi.github.io/money-agnets/posts/how-to-extend-laptop-battery-life-during-long-college-lectures.html"
     }
   ]
 }
