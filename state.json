@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "External Monitors for Students: Is a Second Screen Worth the Investment",
-      "keyword": "benefits of external monitor for college students",
-      "format": "review"
-    },
-    {
       "title": "Laptop Processor Guide: Which CPU Do You Actually Need for Academic Work",
       "keyword": "laptop processor requirements for students",
       "format": "how-to"
@@ -208,6 +203,11 @@
       "title": "How to Extend Laptop Battery Life During Long College Lectures",
       "date": "2026-11-06",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-extend-laptop-battery-life-during-long-college-lectures.html"
+    },
+    {
+      "title": "External Monitors for Students: Is a Second Screen Worth the Investment",
+      "date": "2026-11-07",
+      "url": "https://agents-multi.github.io/money-agnets/posts/external-monitors-for-students-is-a-second-screen-worth-the-investment.html"
     }
   ]
 }
