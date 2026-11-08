@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "topic": {
+      "title": "Laptop Processor Guide: Which CPU Do You Actually Need for Academic Work",
+      "keyword": "laptop processor requirements for students",
+      "format": "how-to"
+    },
+    "attempts": 1,
+    "error": "QA rejected after retries: The article includes affiliate links/placeholder text ('[[AFFILIATE: ...]]') which is generally inappropriate for objective editorial content.; The article mentions a specific target audience ('For many students in India') without any supporting context, making that section feel geographically misplaced or irrelevant for a general guide.; The content is somewhat repetitive regarding the definition of U-series vs H-series processors.; The advice to verify the latest generation is generic; it should ideally define what constitutes a current generation (e.g., Intel Core Ultra or 13th/14th Gen) to be more useful.",
+    "date": "2026-11-08"
+  }
+]

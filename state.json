@@ -1,12 +1,7 @@
 {
   "paused": false,
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "queue": [
-    {
-      "title": "Laptop Processor Guide: Which CPU Do You Actually Need for Academic Work",
-      "keyword": "laptop processor requirements for students",
-      "format": "how-to"
-    },
     {
       "title": "DDR4 vs DDR5 RAM: Does the New Standard Matter for Student Laptops",
       "keyword": "DDR4 vs DDR5 for student laptop",
