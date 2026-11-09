@@ -1,6 +1,6 @@
 {
   "paused": false,
-  "consecutive_failures": 1,
+  "consecutive_failures": 0,
   "queue": [
     {
       "title": "DDR4 vs DDR5 RAM: Does the New Standard Matter for Student Laptops",
@@ -203,6 +203,11 @@
       "title": "External Monitors for Students: Is a Second Screen Worth the Investment",
       "date": "2026-11-07",
       "url": "https://agents-multi.github.io/money-agnets/posts/external-monitors-for-students-is-a-second-screen-worth-the-investment.html"
+    },
+    {
+      "title": "Laptop Processor Guide: Which CPU Do You Actually Need for Academic Work",
+      "date": "2026-11-09",
+      "url": "https://agents-multi.github.io/money-agnets/posts/laptop-processor-guide-which-cpu-do-you-actually-need-for-academic-work.html"
     }
   ]
 }
