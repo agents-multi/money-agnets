@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Essential Cybersecurity Habits for Students Using Shared Campus Wi-Fi",
-      "keyword": "laptop security tips for college students",
-      "format": "how-to"
-    },
-    {
       "title": "Touchscreen vs Non-Touchscreen Laptops for Academic Productivity",
       "keyword": "are touchscreen laptops better for students",
       "format": "comparison"
@@ -208,6 +203,11 @@
       "title": "DDR4 vs DDR5 RAM: Does the New Standard Matter for Student Laptops",
       "date": "2026-11-10",
       "url": "https://agents-multi.github.io/money-agnets/posts/ddr4-vs-ddr5-ram-does-the-new-standard-matter-for-student-laptops.html"
+    },
+    {
+      "title": "Essential Cybersecurity Habits for Students Using Shared Campus Wi-Fi",
+      "date": "2026-11-11",
+      "url": "https://agents-multi.github.io/money-agnets/posts/essential-cybersecurity-habits-for-students-using-shared-campus-wi-fi.html"
     }
   ]
 }
