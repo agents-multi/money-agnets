@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Touchscreen vs Non-Touchscreen Laptops for Academic Productivity",
-      "keyword": "are touchscreen laptops better for students",
-      "format": "comparison"
-    },
-    {
       "title": "Identifying Signs That Your Student Laptop Needs a RAM Upgrade",
       "keyword": "how to know if laptop needs more RAM",
       "format": "how-to"
@@ -208,6 +203,11 @@
       "title": "Essential Cybersecurity Habits for Students Using Shared Campus Wi-Fi",
       "date": "2026-11-11",
       "url": "https://agents-multi.github.io/money-agnets/posts/essential-cybersecurity-habits-for-students-using-shared-campus-wi-fi.html"
+    },
+    {
+      "title": "Touchscreen vs Non-Touchscreen Laptops for Academic Productivity",
+      "date": "2026-11-12",
+      "url": "https://agents-multi.github.io/money-agnets/posts/touchscreen-vs-non-touchscreen-laptops-for-academic-productivity.html"
     }
   ]
 }
