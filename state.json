@@ -1,13 +1,7 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [
-    {
-      "title": "Identifying Signs That Your Student Laptop Needs a RAM Upgrade",
-      "keyword": "how to know if laptop needs more RAM",
-      "format": "how-to"
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -208,6 +202,11 @@
       "title": "Touchscreen vs Non-Touchscreen Laptops for Academic Productivity",
       "date": "2026-11-12",
       "url": "https://agents-multi.github.io/money-agnets/posts/touchscreen-vs-non-touchscreen-laptops-for-academic-productivity.html"
+    },
+    {
+      "title": "Identifying Signs That Your Student Laptop Needs a RAM Upgrade",
+      "date": "2026-11-13",
+      "url": "https://agents-multi.github.io/money-agnets/posts/identifying-signs-that-your-student-laptop-needs-a-ram-upgrade.html"
     }
   ]
 }
