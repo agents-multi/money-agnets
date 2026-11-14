@@ -1,7 +1,43 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [],
+  "queue": [
+    {
+      "title": "Comparing Laptop Cooling Mats and Laptop Stands for Thermal Management",
+      "keyword": "cooling mat vs laptop stand",
+      "format": "comparison"
+    },
+    {
+      "title": "Essential Features to Look for in Laptop Mice for Long Research Sessions",
+      "keyword": "best ergonomic mouse features for students",
+      "format": "review"
+    },
+    {
+      "title": "How to Troubleshoot Common Driver Issues on Student Laptops",
+      "keyword": "fix student laptop driver problems",
+      "format": "how-to"
+    },
+    {
+      "title": "Understanding Portability Requirements for Architecture and Design Students",
+      "keyword": "laptops for architecture students weight and size",
+      "format": "comparison"
+    },
+    {
+      "title": "Factors to Consider When Buying a Laptop Power Bank for Long Campus Days",
+      "keyword": "portable laptop charger for students",
+      "format": "review"
+    },
+    {
+      "title": "How to Manage Local File Organization on Limited Capacity Student Laptops",
+      "keyword": "organizing files on small laptop storage",
+      "format": "how-to"
+    },
+    {
+      "title": "Wired vs Bluetooth Headphones for Campus Library Study Sessions",
+      "keyword": "wired vs wireless headphones for students",
+      "format": "comparison"
+    }
+  ],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -207,6 +243,11 @@
       "title": "Identifying Signs That Your Student Laptop Needs a RAM Upgrade",
       "date": "2026-11-13",
       "url": "https://agents-multi.github.io/money-agnets/posts/identifying-signs-that-your-student-laptop-needs-a-ram-upgrade.html"
+    },
+    {
+      "title": "How to Properly Calibrate Laptop Screen Colors for Digital Design Courses",
+      "date": "2026-11-14",
+      "url": "https://agents-multi.github.io/money-agnets/posts/how-to-properly-calibrate-laptop-screen-colors-for-digital-design-courses.html"
     }
   ]
 }
