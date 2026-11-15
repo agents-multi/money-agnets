@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Comparing Laptop Cooling Mats and Laptop Stands for Thermal Management",
-      "keyword": "cooling mat vs laptop stand",
-      "format": "comparison"
-    },
-    {
       "title": "Essential Features to Look for in Laptop Mice for Long Research Sessions",
       "keyword": "best ergonomic mouse features for students",
       "format": "review"
@@ -248,6 +243,11 @@
       "title": "How to Properly Calibrate Laptop Screen Colors for Digital Design Courses",
       "date": "2026-11-14",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-properly-calibrate-laptop-screen-colors-for-digital-design-courses.html"
+    },
+    {
+      "title": "Comparing Laptop Cooling Mats and Laptop Stands for Thermal Management",
+      "date": "2026-11-15",
+      "url": "https://agents-multi.github.io/money-agnets/posts/comparing-laptop-cooling-mats-and-laptop-stands-for-thermal-management.html"
     }
   ]
 }
