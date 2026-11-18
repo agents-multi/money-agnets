@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Understanding Portability Requirements for Architecture and Design Students",
-      "keyword": "laptops for architecture students weight and size",
-      "format": "comparison"
-    },
-    {
       "title": "Factors to Consider When Buying a Laptop Power Bank for Long Campus Days",
       "keyword": "portable laptop charger for students",
       "format": "review"
@@ -248,6 +243,11 @@
       "title": "How to Troubleshoot Common Driver Issues on Student Laptops",
       "date": "2026-11-17",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-troubleshoot-common-driver-issues-on-student-laptops.html"
+    },
+    {
+      "title": "Understanding Portability Requirements for Architecture and Design Students",
+      "date": "2026-11-18",
+      "url": "https://agents-multi.github.io/money-agnets/posts/understanding-portability-requirements-for-architecture-and-design-students.html"
     }
   ]
 }
