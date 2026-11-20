@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "How to Manage Local File Organization on Limited Capacity Student Laptops",
-      "keyword": "organizing files on small laptop storage",
-      "format": "how-to"
-    },
-    {
       "title": "Wired vs Bluetooth Headphones for Campus Library Study Sessions",
       "keyword": "wired vs wireless headphones for students",
       "format": "comparison"
@@ -248,6 +243,11 @@
       "title": "Factors to Consider When Buying a Laptop Power Bank for Long Campus Days",
       "date": "2026-11-19",
       "url": "https://agents-multi.github.io/money-agnets/posts/factors-to-consider-when-buying-a-laptop-power-bank-for-long-campus-days.html"
+    },
+    {
+      "title": "How to Manage Local File Organization on Limited Capacity Student Laptops",
+      "date": "2026-11-20",
+      "url": "https://agents-multi.github.io/money-agnets/posts/how-to-manage-local-file-organization-on-limited-capacity-student-laptops.html"
     }
   ]
 }
