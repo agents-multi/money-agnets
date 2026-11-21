@@ -1,13 +1,7 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [
-    {
-      "title": "Wired vs Bluetooth Headphones for Campus Library Study Sessions",
-      "keyword": "wired vs wireless headphones for students",
-      "format": "comparison"
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -248,6 +242,11 @@
       "title": "How to Manage Local File Organization on Limited Capacity Student Laptops",
       "date": "2026-11-20",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-manage-local-file-organization-on-limited-capacity-student-laptops.html"
+    },
+    {
+      "title": "Wired vs Bluetooth Headphones for Campus Library Study Sessions",
+      "date": "2026-11-21",
+      "url": "https://agents-multi.github.io/money-agnets/posts/wired-vs-bluetooth-headphones-for-campus-library-study-sessions.html"
     }
   ]
 }
