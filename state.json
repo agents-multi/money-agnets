@@ -1,7 +1,43 @@
 {
   "paused": false,
   "consecutive_failures": 0,
-  "queue": [],
+  "queue": [
+    {
+      "title": "How to Protect Laptop Ports from Humidity and Corrosion in Indian Coastal Hostels",
+      "keyword": "protecting laptop ports from humidity",
+      "format": "how-to"
+    },
+    {
+      "title": "Choosing Between Compact Wireless Keyboards and Full-Sized Peripherals for Small Dorm Desks",
+      "keyword": "compact vs full size keyboard for students",
+      "format": "comparison"
+    },
+    {
+      "title": "What to Look for in Laptop Charger Replacements When Traveling Between Home and Campus",
+      "keyword": "how to choose replacement laptop charger",
+      "format": "how-to"
+    },
+    {
+      "title": "Evaluating the Necessity of Privacy Filters for Public University Libraries",
+      "keyword": "are laptop privacy filters worth it for students",
+      "format": "review"
+    },
+    {
+      "title": "How to Properly Manage Laptop Cable Clutter in Shared Hostel Rooms",
+      "keyword": "organize laptop cables in dorm",
+      "format": "how-to"
+    },
+    {
+      "title": "Matte vs Clear Screen Protectors for Touchscreen Laptops in Glare-Heavy Study Areas",
+      "keyword": "matte vs glossy screen protector for student laptops",
+      "format": "comparison"
+    },
+    {
+      "title": "Essential Indicators That Your Laptop Cooling Pad Is Actually Improving Thermal Performance",
+      "keyword": "how to test laptop cooling pad effectiveness",
+      "format": "how-to"
+    }
+  ],
   "published": [
     {
       "title": "Best Laptops Under \u20b930,000 for Engineering Students in India (2024)",
@@ -247,6 +283,11 @@
       "title": "Wired vs Bluetooth Headphones for Campus Library Study Sessions",
       "date": "2026-11-21",
       "url": "https://agents-multi.github.io/money-agnets/posts/wired-vs-bluetooth-headphones-for-campus-library-study-sessions.html"
+    },
+    {
+      "title": "Choosing Between Laptop Skin and Hard Shell Case for Campus Portability",
+      "date": "2026-11-22",
+      "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-laptop-skin-and-hard-shell-case-for-campus-portability.html"
     }
   ]
 }
