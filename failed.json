@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "topic": {
+      "title": "How to Protect Laptop Ports from Humidity and Corrosion in Indian Coastal Hostels",
+      "keyword": "protecting laptop ports from humidity",
+      "format": "how-to"
+    },
+    "attempts": 1,
+    "error": "All LLM providers failed: HTTP Error 503: Service Unavailable",
+    "date": "2026-11-23"
+  }
+]

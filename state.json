@@ -1,12 +1,7 @@
 {
   "paused": false,
-  "consecutive_failures": 0,
+  "consecutive_failures": 1,
   "queue": [
-    {
-      "title": "How to Protect Laptop Ports from Humidity and Corrosion in Indian Coastal Hostels",
-      "keyword": "protecting laptop ports from humidity",
-      "format": "how-to"
-    },
     {
       "title": "Choosing Between Compact Wireless Keyboards and Full-Sized Peripherals for Small Dorm Desks",
       "keyword": "compact vs full size keyboard for students",
