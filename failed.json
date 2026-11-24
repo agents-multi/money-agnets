@@ -5,8 +5,8 @@
       "keyword": "protecting laptop ports from humidity",
       "format": "how-to"
     },
-    "attempts": 1,
+    "attempts": 2,
     "error": "All LLM providers failed: HTTP Error 503: Service Unavailable",
-    "date": "2026-11-23"
+    "date": "2026-11-24"
   }
 ]
