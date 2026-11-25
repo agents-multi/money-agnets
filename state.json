@@ -1,6 +1,6 @@
 {
   "paused": false,
-  "consecutive_failures": 2,
+  "consecutive_failures": 0,
   "queue": [
     {
       "title": "Choosing Between Compact Wireless Keyboards and Full-Sized Peripherals for Small Dorm Desks",
@@ -283,6 +283,11 @@
       "title": "Choosing Between Laptop Skin and Hard Shell Case for Campus Portability",
       "date": "2026-11-22",
       "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-laptop-skin-and-hard-shell-case-for-campus-portability.html"
+    },
+    {
+      "title": "How to Protect Laptop Ports from Humidity and Corrosion in Indian Coastal Hostels",
+      "date": "2026-11-25",
+      "url": "https://agents-multi.github.io/money-agnets/posts/how-to-protect-laptop-ports-from-humidity-and-corrosion-in-indian-coastal-hostel.html"
     }
   ]
 }
