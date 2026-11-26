@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Choosing Between Compact Wireless Keyboards and Full-Sized Peripherals for Small Dorm Desks",
-      "keyword": "compact vs full size keyboard for students",
-      "format": "comparison"
-    },
-    {
       "title": "What to Look for in Laptop Charger Replacements When Traveling Between Home and Campus",
       "keyword": "how to choose replacement laptop charger",
       "format": "how-to"
@@ -288,6 +283,11 @@
       "title": "How to Protect Laptop Ports from Humidity and Corrosion in Indian Coastal Hostels",
       "date": "2026-11-25",
       "url": "https://agents-multi.github.io/money-agnets/posts/how-to-protect-laptop-ports-from-humidity-and-corrosion-in-indian-coastal-hostel.html"
+    },
+    {
+      "title": "Choosing Between Compact Wireless Keyboards and Full-Sized Peripherals for Small Dorm Desks",
+      "date": "2026-11-26",
+      "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-compact-wireless-keyboards-and-full-sized-peripherals-for-small.html"
     }
   ]
 }
