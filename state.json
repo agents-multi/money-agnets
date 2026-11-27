@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "What to Look for in Laptop Charger Replacements When Traveling Between Home and Campus",
-      "keyword": "how to choose replacement laptop charger",
-      "format": "how-to"
-    },
-    {
       "title": "Evaluating the Necessity of Privacy Filters for Public University Libraries",
       "keyword": "are laptop privacy filters worth it for students",
       "format": "review"
@@ -288,6 +283,11 @@
       "title": "Choosing Between Compact Wireless Keyboards and Full-Sized Peripherals for Small Dorm Desks",
       "date": "2026-11-26",
       "url": "https://agents-multi.github.io/money-agnets/posts/choosing-between-compact-wireless-keyboards-and-full-sized-peripherals-for-small.html"
+    },
+    {
+      "title": "What to Look for in Laptop Charger Replacements When Traveling Between Home and Campus",
+      "date": "2026-11-27",
+      "url": "https://agents-multi.github.io/money-agnets/posts/what-to-look-for-in-laptop-charger-replacements-when-traveling-between-home-and-.html"
     }
   ]
 }
