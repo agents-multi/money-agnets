@@ -3,11 +3,6 @@
   "consecutive_failures": 0,
   "queue": [
     {
-      "title": "Evaluating the Necessity of Privacy Filters for Public University Libraries",
-      "keyword": "are laptop privacy filters worth it for students",
-      "format": "review"
-    },
-    {
       "title": "How to Properly Manage Laptop Cable Clutter in Shared Hostel Rooms",
       "keyword": "organize laptop cables in dorm",
       "format": "how-to"
@@ -288,6 +283,11 @@
       "title": "What to Look for in Laptop Charger Replacements When Traveling Between Home and Campus",
       "date": "2026-11-27",
       "url": "https://agents-multi.github.io/money-agnets/posts/what-to-look-for-in-laptop-charger-replacements-when-traveling-between-home-and-.html"
+    },
+    {
+      "title": "Evaluating the Necessity of Privacy Filters for Public University Libraries",
+      "date": "2026-11-28",
+      "url": "https://agents-multi.github.io/money-agnets/posts/evaluating-the-necessity-of-privacy-filters-for-public-university-libraries.html"
     }
   ]
 }
